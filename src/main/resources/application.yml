@@ -18,3 +18,7 @@ spring:
                     validation:
                           mode: none
             show-sql: true
+
+jwt:
+  secret-key: YkvU9qH7XXDUdecq/GUvXBjQ3+wJKFOfo0Je5WTKi8Y=
+  expiration: 600000
